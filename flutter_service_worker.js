@@ -42,7 +42,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "a7cb285d580796f7ef9f6650eee564af
 "assets/assets/images/Turnen.jpg": "c8d6dec0c5bfcbb40edaf9659e8b9515",
 "assets/assets/images/WarmUP.jpeg": "bad56e45298ba1d50005ac77a5c32ffe",
 "assets/FontManifest.json": "fcfb7db811cffe848da300252809b5b8",
-"assets/fonts/MaterialIcons-Regular.otf": "a74d3f64f72b7f30cb202bfd7929edf0",
+"assets/fonts/MaterialIcons-Regular.otf": "2b63203ddd393d301da0d039f66a1a57",
 "assets/NOTICES": "2976a1ec46fd619f12939f3b525e3cc0",
 "assets/packages/community_material_icon/fonts/materialdesignicons-webfont.ttf": "174c02fc4609e8fc4389f5d21f16a296",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
@@ -67,9 +67,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "a7cb285d580796f7ef9f6650eee564af
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "04c7167f0330aaaf44191faad0026821",
-"/": "04c7167f0330aaaf44191faad0026821",
-"main.dart.js": "4db6a672d96791b176da3790db6e8efd",
+"index.html": "c4aebc02a3e6c8a4ca397b9521ac6528",
+"/": "c4aebc02a3e6c8a4ca397b9521ac6528",
+"main.dart.js": "cd4cd5238f4232e0eabc8ce5cd957de2",
 "manifest.json": "8c4c28c09f415b173b3e1f563cbba17a",
 "version.json": "dc5fd9c93d177fe018d89552eb92b954"};
 // The application shell files that are downloaded before a service worker can
